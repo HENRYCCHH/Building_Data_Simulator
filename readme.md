@@ -2,6 +2,8 @@
 
 ## Overview
 This is a **building simulator** that visualizes environmental and occupancy data from **Building 11 of University of Technology Sydney**. The simulation is based on real-world data collected from the **Faculty of Engineering and IT (FEIT) website** over **three days**. The data has been processed to ensure **5-minute intervals**, with missing values filled based on previous readings.
+A video demonstration highlights the application's functionality and key features :
+[Interactive Building Simulator: A Creative Data-Driven Visual Experience](https://youtu.be/Tnxm0caIM3U)
 
 ## Features & Visualization
 This simulator represents various environmental and occupancy factors using interactive and animated elements:
